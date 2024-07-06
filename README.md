@@ -1,3 +1,4 @@
+[![Support me on ko-fi](https://pabanks.io/assets/kofi-md.svg)](https://ko-fi.com/H2H1ZZY1Q) &nbsp; [![Support me on Coindrop](https://pabanks.io/assets/coindrop-md.svg)](https://coindrop.to/auxcodes)
 # Gatsby Store Website
 
 This repo contains a static website written with [GatsbyJS](https://www.gatsbyjs.org/), integrated with content coming from [DatoCMS](https://www.datocms.com).
